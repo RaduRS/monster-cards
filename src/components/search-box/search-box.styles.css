@@ -1,0 +1,22 @@
+.search {
+  -webkit-appearance: none;
+  border: .0625rem solid #fafbfe;
+  background: #ecf0f3;
+  padding: 10px;
+  border-radius: 10px;
+  width: 150px;
+  line-height: 30px;
+  margin-bottom: 50px;
+  text-align: center;
+  align-self: center;
+  width: 20%;
+  /* box-shadow: 3px 3px 5px 0px rgb(0, 0, 0),-2px -2px 5px 0px rgb(255, 255, 255); */
+  box-shadow: 6px 6px 12px #b8b9be,-6px -6px 12px #fff!important;
+  border-color: #b8b9be;
+}
+
+.search:focus{
+  outline: none;
+}
+
+
