@@ -12,6 +12,8 @@
   backface-visibility: hidden;
   transform: translateZ(0);
   transition: transform 0.25s ease-out;
+  width: 230px;
+  height: 300px;
 }
 
 .card-container:hover {
