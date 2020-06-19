@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/monster-cards-react/static/css/main.0b833cd0.chunk.css",
-    "main.js": "/monster-cards-react/static/js/main.5bf1ee92.chunk.js",
-    "main.js.map": "/monster-cards-react/static/js/main.5bf1ee92.chunk.js.map",
+    "main.js": "/monster-cards-react/static/js/main.64dad3dc.chunk.js",
+    "main.js.map": "/monster-cards-react/static/js/main.64dad3dc.chunk.js.map",
     "runtime-main.js": "/monster-cards-react/static/js/runtime-main.cdd3aabf.js",
     "runtime-main.js.map": "/monster-cards-react/static/js/runtime-main.cdd3aabf.js.map",
     "static/js/2.c16a5a8a.chunk.js": "/monster-cards-react/static/js/2.c16a5a8a.chunk.js",
     "static/js/2.c16a5a8a.chunk.js.map": "/monster-cards-react/static/js/2.c16a5a8a.chunk.js.map",
     "index.html": "/monster-cards-react/index.html",
-    "precache-manifest.1993b7a2aa12a7a88872626cae1d8364.js": "/monster-cards-react/precache-manifest.1993b7a2aa12a7a88872626cae1d8364.js",
+    "precache-manifest.4c70c3935a382291a5c08ad34cb358ef.js": "/monster-cards-react/precache-manifest.4c70c3935a382291a5c08ad34cb358ef.js",
     "service-worker.js": "/monster-cards-react/service-worker.js",
     "static/css/main.0b833cd0.chunk.css.map": "/monster-cards-react/static/css/main.0b833cd0.chunk.css.map",
     "static/js/2.c16a5a8a.chunk.js.LICENSE.txt": "/monster-cards-react/static/js/2.c16a5a8a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.cdd3aabf.js",
     "static/js/2.c16a5a8a.chunk.js",
     "static/css/main.0b833cd0.chunk.css",
-    "static/js/main.5bf1ee92.chunk.js"
+    "static/js/main.64dad3dc.chunk.js"
   ]
 }
